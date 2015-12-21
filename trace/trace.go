@@ -32,7 +32,7 @@ import (
 	"code.google.com/p/gopacket/layers"
 	"code.google.com/p/gopacket/pcap"
 	"fmt"
-	"github.com/david415/go-netfilter-queue"
+	"github.com/openshift/geard/pkg/go-netfilter-queue"
 	"log"
 	"net"
 	"sync"
