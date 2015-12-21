@@ -28,7 +28,7 @@ package main
 
 import (
 	"flag"
-	"github.com/david415/ParasiticTraceroute/trace"
+	"github.com/17mon/ParasiticTraceroute/trace"
 	"log"
 	"os"
 )
